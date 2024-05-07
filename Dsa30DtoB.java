@@ -1,7 +1,6 @@
-class hello{
+class Dsa30DtoB{
     public static void main(String args[]){
-        System.out.println("Hello");
+        int n=5;
         
-    
     }
 }
